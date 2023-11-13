@@ -2,15 +2,6 @@
 
 This is a responsive hotel landing page designed for showcasing different suites within the "Apartment Maria" establishment. The page features a clean and visually appealing layout with case studies for individual suites and accompanying images.
 
-## Table of Contents
-- [Features](#features)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Getting Started](#getting-started)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Responsive design for optimal viewing on various devices.
@@ -22,10 +13,6 @@ This is a responsive hotel landing page designed for showcasing different suites
 
 To use this landing page, simply open the `index.html` file in a web browser.
 
-## Dependencies
-
-- [Bootstrap](https://getbootstrap.com/) (version 4.1.3)
-- [jQuery](https://jquery.com/) (version 3.3.1)
 
 ## Getting Started
 
